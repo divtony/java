@@ -28,8 +28,13 @@ public class Exam_05 {
 		int e = 2;
 		Integer f = e; // 자동 변환 Auto Boxing
 		
+		System.out.println(f);
+		
+		
 		Integer g = 4;
 		int h = g; // 자동 변환 Auto UnBoxing
+		
+		System.out.println(h);
 		
 		// 원시타입 → 참조타입
 		// boolean → Boolean
